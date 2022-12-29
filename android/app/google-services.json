@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006912545359",
+    "project_id": "laxmi-flight-booking-app",
+    "storage_bucket": "laxmi-flight-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006912545359:android:9d9e948dd1b0dec9da803a",
+        "android_client_info": {
+          "package_name": "com.example.laxmiflight_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006912545359-7oft4lq6hsa5vfremgjpa0eg9f6g4nnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZkV9fzDy2gFo7eFN-8prped-Ddcp3vlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006912545359-7oft4lq6hsa5vfremgjpa0eg9f6g4nnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
